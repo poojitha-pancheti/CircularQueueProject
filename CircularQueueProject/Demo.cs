@@ -45,6 +45,7 @@ namespace CircularQueueProject
                         break;
                 }
                 Console.WriteLine();
+
             }
         }
     }
